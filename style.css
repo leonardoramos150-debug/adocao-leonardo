@@ -8,15 +8,24 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
 .back-primario {
-    background-color:#6ce7e3;
+    background-color: #0e5a61;
 }
+
 .back-secundario {
-    background-color:#2e3656;
+    background-color: #2e3656;
 }
+
 .animal-intro {
     width: 100%;
     position: absolute;
     left: -32px;
     bottom: 0px;
 }
+
+.content {
+    width: 80%;
+}
+
+.btn-primary {}
